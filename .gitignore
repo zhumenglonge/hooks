@@ -6,3 +6,4 @@ coverage
 .turbo
 *.tsbuildinfo
 .npm-cache
+.idea
