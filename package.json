@@ -46,6 +46,14 @@
     "typescript": "^5.7.0",
     "vitest": "^3.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhumenglonge/hooks.git"
+  },
+  "homepage": "https://github.com/zhumenglonge/hooks#readme",
+  "bugs": {
+    "url": "https://github.com/zhumenglonge/hooks/issues"
+  },
   "keywords": [
     "react",
     "hooks",
